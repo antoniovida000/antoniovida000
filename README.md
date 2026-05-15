@@ -32,7 +32,9 @@ Responsive layout and best practices
 I am currently building projects and will be publishing them here on GitHub soon.
 
 📫 Contact
+
 📧 Email: antoniovida.dev@gmail.com
+
 🌐 GitHub: https://github.com/antoniovida000
 
 ⭐ Thanks for visiting my profile!!
