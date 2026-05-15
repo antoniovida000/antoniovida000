@@ -1,38 +1,38 @@
-Olá, eu sou António Vida
+👋 Hi, I'm António Vida
 
-Front-End Developer & IT Technician
-Luanda, Angola
+💻 Front-End Developer & IT Technician
+🌍 Based in Luanda, Angola
 
-Sou desenvolvedor front-end e técnico de informática, focado na criação de interfaces web modernas, responsivas e funcionais. Tenho interesse em transformar ideias em sites simples, bem estruturados e com boa experiência de utilização.
+I am a front-end developer and IT technician focused on building modern, responsive, and functional web interfaces. I enjoy turning ideas into simple, well-structured websites with a good user experience.
 
-Estou em constante evolução na área de desenvolvimento web, reforçando as minhas bases e explorando boas práticas de construção de interfaces.
+I am constantly improving my skills in web development, strengthening my foundations and exploring best practices in interface design.
 
-Tecnologias
+🚀 Technologies
 
-Front-End
+🌐 Front-End
+
 HTML5
 CSS3
-JavaScript (evoluindo)
+JavaScript (fundamentals)
 
-Ferramentas
+🛠️ Tools
 
 Git & GitHub
 VS Code
-Figma (sólidas)
+Figma
 
-Em aprendizagem
+📚 Currently Learning
 
-JavaScript aplicado a projetos.
-UI/UX Design básico.
-Responsividade e boas práticas de layout.
+JavaScript applied to real projects
+Basic UI/UX Design
+Responsive layout and best practices
 
-Projetos
+📂 Projects
 
-Ainda em fase de construção de projetos, com novos repositórios a serem publicados em breve.
+I am currently building projects and will be publishing them here on GitHub soon.
 
-📫 Contacto
-
+📫 Contact
 📧 Email: antoniovida.dev@gmail.com
 🌐 GitHub: https://github.com/antoniovida000
 
-⭐ Obrigado por visitar o meu perfil!
+⭐ Thanks for visiting my profile!!
